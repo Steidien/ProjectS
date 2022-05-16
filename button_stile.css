@@ -77,6 +77,7 @@ body {
     .knopks {
         background-color: #F0E68C;
         width: 100%;
+        max-width: 100%;
         min-height: 30px;
         height: 20px;
         padding: 5px;
@@ -167,6 +168,7 @@ body {
         .material_button {
             background-image: url(icon_ProjectS.jpg);
             background-size: 100%;
+            background-repeat: no-repeat;
         }
 
         .theory {
