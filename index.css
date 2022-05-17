@@ -7,132 +7,126 @@ body {
     
 }
 
-@media (max-width: 700px) {
     .container {
-        text-align: center;
-        display: block;
+        width: 100%;
     }
-}
 
-.container {
-    width: 100%;
-}
+    .none {
+        margin-bottom: 50px;
+    }
 
-.none {
-    margin-bottom: 50px;
-}
+    .color2 {
+        padding-top: 15px;
+        
+    }
 
-.color2 {
-    padding-top: 15px;
-    
-}
-
-.tablizza {
-    padding-bottom: 10px;
-    font-weight: bolder;
-}
+    .tablizza {
+        padding-bottom: 10px;
+        font-weight: bolder;
+    }
 
 
-.color1 {
-    background-color: #ffc5ae;
-    border-radius: 30px;
-    padding-bottom: 30px;
-    padding: 15px 20px;
-}
+    .color1 {
+        background-color: #ffc5ae;
+        border-radius: 30px;
+        padding-bottom: 30px;
+        padding: 15px 20px;
+    }
 
-.color2 {
-    background-color: rgb(176, 253, 227);
-    padding: 15px 30px;
-    border-radius: 30px;
-}
+    .color2 {
+        background-color: rgb(176, 253, 227);
+        padding: 15px 30px;
+        border-radius: 30px;
+    }
 
-.knopks {
-    background-color: #F0E68C;
-    width: 100%;
-    min-height: 30px;
-    height: 20px;
-    padding: 5px;
-    position: fixed;
-    top: 0;
-    border-radius: 30px;
-}
+    .knopks {
+        background-color: #F0E68C;
+        width: 100%;
+        max-height: 30px;
+        height: 20px;
+        padding: 5px;
+        position: fixed;
+        top: 0;
+        border-radius: 30px;
+        font-size: 14px;
+    }
 
 
-.knopka0 {
-    border: none;
-    border-radius: 30px;
-    background-color: #eee594;
-    padding: 10px 15px;
-    color:#cc9319;
-    text-decoration: none;
-}
+        .knopka0 {
+            border: none;
+            border-radius: 30px;
+            background-color: #eee594;
+            padding: 10px 15px;
+            color:#cc9319;
+            text-decoration: none;
+        }
 
-.knopka0:hover {
-    opacity: 0.5;
-}
+        .knopka0:hover {
+            opacity: 0.5;
+        }
 
-.knopka1 {
-    border: none;
-    border-radius: 30px;
-    background-color: #eee594;
-    padding: 10px 15px;
-    color:#cc9319;
-    text-decoration: none;
-}
+        .knopka1 {
+            border: none;
+            border-radius: 30px;
+            background-color: #eee594;
+            padding: 10px 15px;
+            color:#cc9319;
+            text-decoration: none;
+        }
 
-.knopka1:hover {
-    opacity: 0.5;
-}
+        .knopka1:hover {
+            opacity: 0.5;
+        }
 
-.knopka2 {
-    border: none;
-    border-radius: 30px;
-    background-color: #eee594;
-    padding: 10px 15px;
-    color:#cc9319;
-    text-decoration: none;
-}
+        .knopka2 {
+            border: none;
+            border-radius: 30px;
+            background-color: #eee594;
+            padding: 10px 15px;
+            color:#cc9319;
+            text-decoration: none;
+        }
 
-.knopka2:hover {
-    opacity: 0.5;
-}
+        .knopka2:hover {
+            opacity: 0.5;
+        }
 
-.knopka3 {
-    border: none;
-    border-radius: 30px;
-    background-color: #eee594;
-    padding: 10px 15px;
-    color:#cc9319;
-    text-decoration: none;
-}
+        .knopka3 {
+            border: none;
+            border-radius: 30px;
+            background-color: #eee594;
+            padding: 10px 15px;
+            color:#cc9319;
+            text-decoration: none;
+        }
 
-.knopka3:hover {
-    opacity: 0.5;
-}
+        .knopka3:hover {
+            opacity: 0.5;
+        }
 
-.knopka4 {
-    border: none;
-    border-radius: 30px;
-    background-color: #eee594;
-    padding: 10px 15px;
-    color:#cc9319;
-    text-decoration: none;
-}
+        .knopka4 {
+            border: none;
+            border-radius: 30px;
+            background-color: #eee594;
+            padding: 10px 15px;
+            color:#cc9319;
+            text-decoration: none;
+        }
 
-.knopka4:hover {
-    opacity: 0.5;
-}
+        .knopka4:hover {
+            opacity: 0.5;
+        }
 
-.knopka5 {
-    border: none;
-    border-radius: 30px;
-    background-color: #eee594;
-    padding: 10px 15px;
-    color:#cc9319;
-    text-decoration: none;
-}
+        .knopka5 {
+            border: none;
+            border-radius: 30px;
+            background-color: #eee594;
+            padding: 10px 15px;
+            color:#cc9319;
+            text-decoration: none;
+        }
 
-.knopka5:hover {
-    opacity: 0.5;
-}
+        .knopka5:hover {
+            opacity: 0.5;
+        }
 
