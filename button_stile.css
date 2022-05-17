@@ -13,7 +13,7 @@ body {
         text-decoration: none;
         border-radius: 30px;
         padding: 10px 5px;
-        position: absolute;
+        position: fixed;
         right: 3%;
         top: 80%;
         margin-top: 50px;
@@ -33,8 +33,8 @@ body {
         text-decoration: none;
         border-radius: 30px;
         padding: 10px;
-        position: absolute;
-        right: 92%;
+        position: fixed;
+        right: 84%;
         top: 80%;
         margin-top: 50px;
     }
@@ -48,38 +48,41 @@ body {
         background-color: #ffc5ae;
         border-radius: 30px;
         padding: 15px 50px;
+        max-width: 100%;
     }
     .button2 {
         background-color: #ffc5ae;
         border-radius: 30px;
         padding-bottom: 30px;
         padding: 15px 50px;
+        max-width: 100%;
     }
     .button3 {
         background-color: #ffc5ae;
         border-radius: 30px;
         padding-bottom: 30px;
         padding: 15px 50px;
+        max-width: 100%;
     }
     .button4 {
         background-color: #ffc5ae;
         border-radius: 30px;
         padding-bottom: 30px;
         padding: 15px 50px;
+        max-width: 100%;
     }
     .button5 {
         background-color: #ffc5ae;
         border-radius: 30px;
         padding-bottom: 30px;
         padding: 15px 50px;
+        max-width: 100%;
     }
 
     .knopks {
         background-color: #F0E68C;
         width: 100%;
-        max-width: 100%;
-        min-height: 30px;
-        height: 20px;
+        height: 5%;
         padding: 5px;
         position: fixed;
         top: 0;
@@ -169,6 +172,7 @@ body {
             background-image: url(icon_ProjectS.jpg);
             background-size: 100%;
             background-repeat: no-repeat;
+            size: 500px;
         }
 
         .theory {
@@ -178,7 +182,6 @@ body {
             border-radius: 30px;
             padding: 10px;
             position: absolute;
-            right: 80%;
             top: 15%;
             margin-top: 50px;
         }
@@ -193,7 +196,9 @@ body {
             border-radius: 30px;
             padding: 10px;
             position: absolute;
-            right: 87%;
             top: 45%;
             margin-top: 50px;
         }
+            .code:hover {
+                background-color: rgb(165, 96, 255);
+            }
