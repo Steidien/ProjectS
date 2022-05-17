@@ -36,6 +36,7 @@ body {
         position: fixed;
         top: 80%;
         margin-top: 50px;
+        max-width: 100px;
     }
         
         .material:hover {
@@ -87,7 +88,6 @@ body {
         position: fixed;
         top: 0;
         border-radius: 30px;
-        font-size: 14px;
     }
 
 
